@@ -1,0 +1,29 @@
+.container-title{
+    text-align: center;
+    color: rgb(156, 28, 40);
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    height: 2cm;
+    font-size: 1.5cm;
+}
+
+.container-elements{
+    width: 100%;
+    height: 50%;
+}
+
+.container-livewindow{
+    width: 70%;
+    height: 5%;
+    margin-left: 1%;
+}
+
+.container-info{
+    width: 20%;
+    background-color: lavenderblush;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
